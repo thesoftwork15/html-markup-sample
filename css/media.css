@@ -1,0 +1,276 @@
+@media(max-width: 992px) {
+.banner-info {
+    width: 65%;
+}
+.enquire-form-box {
+    width: 35%;
+
+}
+.banner-info h1 {
+    font-size: 35px;
+}
+.package-caption p{    font-size: 16px;}
+.tab-list li {
+    margin-right: 10px;
+}
+.tab-list a{    font-size: 13px;}
+
+.package-inclusionBox h1{    font-size: 22px;}
+
+.package-accommodationBox > h1 {
+    font-size: 22px;
+  }
+
+/*thank you page css*/
+
+.thyankyou-banne-infoWraper h1 {
+    font-size: 50px;
+}
+.thyankyou-banne-infoWraper p {
+    font-size: 26px;
+}
+.package-pricebox {
+    padding: 20px 0;
+}
+.package-pricebox h1 {
+    font-size: 35px;
+}
+.package-pricebox sup {
+    font-size: 25px;
+}
+.recommended-item:after {
+    width: 155px;
+}
+}
+
+
+@media(max-width: 767px) {
+.enquire-form-box {
+    width: 100%;
+}
+.banner-info {
+    width: 100%;
+}
+.top-contactNo-box p {
+  font-size: 14px;
+}
+.package-wraper h1 {
+  font-size: 22px;
+}
+.package-item {
+  margin: 0 0 25px;
+}
+.package-wraper .col-md-3:nth-child(2) .package-item {
+  border-right: medium none;
+}
+.package-inclusionBox ul li {
+  font-size: 18px;
+  line-height: 1.4;
+}
+.package-inclusionBox ul li {
+    background: rgba(0, 0, 0, 0) url("../images/list-icon.png") no-repeat scroll left 4px;
+  }
+
+.tab-list li {
+    margin-right: 8px;
+}
+.tab-list a {
+  padding: 13px 3px;
+font-size: 10px;
+}
+
+.why-bookwrap h1 {
+  font-size: 20px;
+}
+.why-bookwrap li {
+  display: inline-flex;
+  font-size: 20px;
+}
+.why-bookwrap {
+  padding: 30px 0;
+}
+
+.travel-captionbox h1 {
+  font-size: 22px;
+}
+.travel-iteminfobox {
+  margin: 0 0 35px;
+}
+.travel-infowrap {
+  padding: 20px 0 0;
+}
+.callDeal-wraper span {
+  display: block;
+}
+.callDeal-wraper p, .callDeal-wraper a {
+  font-size: 24px;
+  line-height: 34px;
+}
+.callDeal-wraper {
+  padding: 20px 0;
+   margin: 0 0 30px;
+}
+.copyright-box {
+  display: block;
+  text-align: center;
+  width: 100%;
+}
+.footer-menu {
+  float: left;
+  margin: 20px 0 0;
+  text-align: center;
+}
+.help-btn{ display: none!important; }
+.bookinfo-list i {
+  display: table-cell;
+  margin-right: 10px;
+  width: 60px;
+}
+.why-bookwrap li {
+  display: table;
+}
+
+.bookinfo-box {
+  padding: 15px;
+}
+.package-wraper {
+  padding: 50px 0 20px;
+}
+
+.package-wraper h1 {
+  font-size: 40px;
+  margin: 0 0 45px;
+
+}
+.banner-wraper {
+  padding: 30px 0 35px;
+}
+.package-wraper h1 {
+  font-size: 24px;
+}
+.logo img {
+  max-width: 50%;
+}
+.package-wraper .col-md-3:nth-child(1)::after {
+  background: #aaa none repeat scroll 0 0;
+  content: "";
+  display: inline-block;
+  height: 130px;
+  position: absolute;
+  right: 0;
+  top: 32px;
+  width: 1px;
+}
+
+.package-wraper .col-md-3:nth-child(3)::after {
+  background: #aaa none repeat scroll 0 0;
+  content: "";
+  display: inline-block;
+  height: 130px;
+  position: absolute;
+  right: 0;
+  top: 32px;
+  width: 1px;
+}
+.package-item {
+    border-right: medium none;
+  }
+
+
+ /*thgank you page css*/
+ .thyankyou-banne-infoWraper h1 {
+    font-size: 40px;
+    margin: 0 0 30px;
+}
+.thyankyou-banne-infoWraper p {
+    font-size: 22px;
+    line-height: 32px;
+    margin: 0;
+}
+.thyankyou-banne-infoWraper p span, .thyankyou-banne-infoWraper p a {
+    font-size: 22px;
+}
+.recommended-wraper .container > h1 {
+    margin: 0 0 40px;
+}
+.recommended-item {
+    padding: 5px;
+}
+.package-pricebox {
+    padding: 15px 0 10px;
+}
+.package-pricebox h1 {
+    font-size: 25px;
+}
+.package-pricebox sup {
+    font-size: 20px;
+    top: -7px;
+}
+.recommended-item:after {
+    width: 70%;
+    height: 4px;
+}
+.why-bookwrap1 .bookinfo-box {
+    display: block;
+    text-align: left;
+}
+.recommended-wraper .container > h1 {
+    font-size: 22px;
+  }
+.recommended-wraper {
+    padding: 50px 0 0;
+}
+.why-bookwrap.why-bookwrap1 {
+    padding: 0;
+}
+.why-bookwrap.why-bookwrap1 li:last-child {
+    margin: 0;
+}
+.thankyou-banner {
+    padding: 80px 0;
+    background-position: 65% 65%;
+}
+
+
+}
+
+
+
+@media(max-width: 480px) {
+.banner-info h1 {
+    font-size: 26px;
+}
+.banner-info > p {
+  font-size: 22px;
+}
+.strating-form-box {
+  width: 100%;
+}
+.strating-form-box p {
+  font-size: 25px;
+}
+.thyankyou-banne-infoWraper p {
+    font-size: 17px;
+}
+.thyankyou-banne-infoWraper p span, .thyankyou-banne-infoWraper p a {
+    font-size: 17px;
+}
+.thyankyou-banne-infoWraper h1 {
+    font-size: 32px;
+    margin: 0 0 20px;
+}
+
+}
+
+@media(max-width: 380px) {
+.package-pricebox sup {
+    font-size: 20px;
+    top: 0px;
+}
+.package-pricebox h1 {
+    font-size: 20px;
+}
+
+
+
+}
